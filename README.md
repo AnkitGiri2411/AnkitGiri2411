@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnkitGiri2411 
-- 🌱 I’m currently working on Spring Boot,java,Hibernate and React js. 
-- 💞️ I’m looking to collaborate on Spring boot projects. 
+- 👋 Hi, I’m @AnkitGiri2411.
+- 🌱 I’m Full-Stack Developer and i haved Worked on React js, Spring Boot and Hibernate. 
+- 💞️ I’m looking to collaborate on React-js or Spring boot projects. 
 - 📫 you can connect me with my gmail id javadeveloperankitg@gmail.com
 
 <!---
